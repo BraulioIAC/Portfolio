@@ -13,13 +13,14 @@ body,html {
     background-color: #fff;
   }
   /* default style */
+  /* work implemented from: https://codepen.io/jstn/pen/mdoOZJ */
   .navContent {
     display: flex; 
     padding: 0; 
     list-style: none; 
     width: 100%;
     text-align: center;
-    justify-content: space-around !important;
+    justify-content: center !important;
   }
   .liNav { 
     display: table-cell; 
